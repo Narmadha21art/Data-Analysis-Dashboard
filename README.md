@@ -91,6 +91,5 @@ LossCount = COUNTROWS(FILTER(Trades, Trades[pnl] < 0))
 - Improve UI for better interactivity.
 
 ---
-
 ### **Author** 👩‍💻
 Created by **Y.Narmadha**
