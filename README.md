@@ -39,6 +39,8 @@ Each file contains trade data with these columns:
   - **Total PnL** (`SUM(pnl)`)
   - **Win Count** (`COUNTROWS(FILTER(Trades, Trades[pnl] > 0))`)
   - **Loss Count** (`COUNTROWS(FILTER(Trades, Trades[pnl] < 0))`)
+##**SUMMARYSHEET****
+     ![Screenshot 2025-05-17 145759](https://github.com/user-attachments/assets/27c2cc1e-8555-47ac-846e-ca824efb2c8d)
 
 #### **DAX Measures**
 ```DAX
