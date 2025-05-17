@@ -87,6 +87,9 @@ LossCount = COUNTROWS(FILTER(Trades, Trades[pnl] < 0))
 - Ensure correct **strategy and date-based filtering**.
 - Style visuals for **better readability**.
 
+##**DASH BOARD**
+![Screenshot 2025-05-17 145946](https://github.com/user-attachments/assets/9f463fad-26e1-49e1-93df-36bcd68f0fea)
+
 ## **Next Steps 🚀**
 - Automate data refresh.
 - Add more strategy comparison insights.
