@@ -30,6 +30,8 @@ Each file contains trade data with these columns:
    else "Strategy 3"
    ```
 6. Click **Close & Apply**.
+7. **Another Way**
+    Before Adding the csv files into one add "Strategy_Name" column to each data set then after add these three data sets into one data set Named as "Trade".
 
 ### **Step 2: Create Strategy Summary Page (Main Page)**
 - **Table** containing:
