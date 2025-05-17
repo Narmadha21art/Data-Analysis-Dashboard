@@ -6,9 +6,9 @@ This project analyzes trading strategies using **Power BI** with data from three
 
 ## Data Sources 📁
 The project utilizes **three CSV files**:
-- `strategy_1.csv`-
-- `strategy_2.csv`
-- `strategy_3.csv`
+- strategy_1.csv
+- strategy_2.csv
+- strategy_3.csv
 
 Each file contains trade data with these columns:
 - `symbol`
